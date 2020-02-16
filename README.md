@@ -1,21 +1,25 @@
-# pxt-mp3touch-old
+# pxt-mp3touch-v0
 
+Dieses Paket stellt Blöcke bereit um einen seriellen MP3-player und ein mpr121 Touchmodul am Calliope mini im aktuellen v0 Makecode zu betreiben.
 
+Nicht von der Fehlermeldung des Simulators irritieren lassen, das Programm wird trotzdem compiliert und läuft auf dem Calliope Mini.
 
-## TODO
+Dieses Paket basiert auf bzw. lädt folgende z.T. angepasste Teilpakete nach:
 
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] On GitHub, create a new file named LICENSE. Select the MIT License template.
-- [ ] Get your package reviewed and approved /extensions/approval
+* https://github.com/infchem/pxt-calliope-grove-mpr121
 
-Read more at /extensions
+* https://github.com/1010Technologies/pxt-makerbit-touch
+
+* https://github.com/hhf42/pxt-serial-rb
+
+![](https://github.com/MKleinSB/pxt-mp3touch-v0/blob/master/1.JPG "mp3touch")
+
+## License
+
+MIT License 
+
 
 ## Supported targets
 
-* for PXT/microbit
-(The metadata above is needed for package search.)
+* for PXT/calliope
 
