@@ -4,6 +4,8 @@ Dieses Paket stellt Blöcke bereit um einen seriellen MP3-player und ein mpr121 
 
 Nicht von der Fehlermeldung des Simulators irritieren lassen, das Programm wird trotzdem compiliert und läuft auf dem Calliope Mini.
 
+![](https://github.com/MKleinSB/pxt-mp3touch-v0/blob/master/2.jpg "mp3touch")
+
 Dieses Paket basiert auf bzw. lädt folgende z.T. angepasste Teilpakete nach:
 
 * https://github.com/infchem/pxt-calliope-grove-mpr121
