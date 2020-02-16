@@ -1,18 +1,21 @@
 {
     "name": "pxt-mp3touch-old",
     "version": "0.0.0",
-    "description": "",
+    "description": "mp3 and touch for Calliope Mini V0 Core",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "serial-rb": "github:mkleinsb/pxt-serial-rb#v0.0.4",
+        "pxt-calliope-grove-mpr121": "github:infchem/pxt-calliope-grove-mpr121#15d66b5dcb337ceebd36930f944f2d705d4c129b"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
