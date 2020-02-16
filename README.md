@@ -12,7 +12,7 @@ Dieses Paket basiert auf bzw. lädt folgende z.T. angepasste Teilpakete nach:
 
 * https://github.com/hhf42/pxt-serial-rb
 
-![](https://github.com/MKleinSB/pxt-mp3touch-v0/blob/master/1.JPG "mp3touch")
+![](https://github.com/MKleinSB/pxt-mp3touch-v0/blob/master/1.jpg "mp3touch")
 
 ## License
 
