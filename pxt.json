@@ -1,6 +1,6 @@
 {
     "name": "pxt-mp3touch-old",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "mp3 and touch for Calliope Mini V0 Core",
     "dependencies": {
         "core": "*",
