@@ -5,8 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "serial-rb": "github:mkleinsb/pxt-serial-rb#v0.0.4",
-        "pxt-calliope-grove-mpr121": "github:infchem/pxt-calliope-grove-mpr121#15d66b5dcb337ceebd36930f944f2d705d4c129b"
+        "pxt-calliope-grove-mpr121": "github:infchem/pxt-calliope-grove-mpr121#15d66b5dcb337ceebd36930f944f2d705d4c129b",
+        "serial_rb2": "github:mkleinsb/serial_rb2#v0.0.1"
     },
     "files": [
         "README.md",
