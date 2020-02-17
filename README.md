@@ -10,7 +10,7 @@ Dieses Paket basiert auf bzw. lädt folgende z.T. angepasste Teilpakete nach:
 
 * https://github.com/infchem/pxt-calliope-grove-mpr121
 
-* https://github.com/1010Technologies/pxt-makerbit-touch
+* https://github.com/1010Technologies/pxt-makerbit-mp3
 
 * https://github.com/hhf42/pxt-serial-rb
 
